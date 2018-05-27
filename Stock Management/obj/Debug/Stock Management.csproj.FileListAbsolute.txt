@@ -1,0 +1,12 @@
+C:\Users\LP2User\source\repos\Stock Management\Stock Management\obj\Debug\Stock Management.csprojResolveAssemblyReference.cache
+C:\Users\LP2User\source\repos\Stock Management\Stock Management\obj\Debug\Stock_Management.Properties.Resources.resources
+C:\Users\LP2User\source\repos\Stock Management\Stock Management\obj\Debug\Stock_Management.StockIndex.resources
+C:\Users\LP2User\source\repos\Stock Management\Stock Management\obj\Debug\Stock Management.csproj.GenerateResource.cache
+C:\Users\LP2User\source\repos\Stock Management\Stock Management\obj\Debug\Stock Management.csproj.CoreCompileInputs.cache
+C:\Users\LP2User\source\repos\Stock Management\Stock Management\bin\Debug\Stock Management.exe.config
+C:\Users\LP2User\source\repos\Stock Management\Stock Management\bin\Debug\Stock Management.exe
+C:\Users\LP2User\source\repos\Stock Management\Stock Management\bin\Debug\Stock Management.pdb
+C:\Users\LP2User\source\repos\Stock Management\Stock Management\obj\Debug\Stock Management.exe
+C:\Users\LP2User\source\repos\Stock Management\Stock Management\obj\Debug\Stock Management.pdb
+C:\Users\LP2User\source\repos\Stock Management\Stock Management\obj\Debug\Stock_Management.UserLogin.resources
+C:\Users\LP2User\source\repos\Stock Management\Stock Management\obj\Debug\Stock_Management.Products.resources
